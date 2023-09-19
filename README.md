@@ -6,6 +6,8 @@ This project focuses on predicting car prices using Random Forest and XGBoost mo
 
 ## Dataset Information
 
+![dataset](https://github.com/nashaat29/Car-Price-Prediction/assets/138555343/5d8ddc5f-128d-4da9-9db2-47ede2862f27)
+
 - **Dataset Description**: The dataset consists of 19237 rows and 18 columns, including the target variable 'Price'.
 
 ### Attributes
@@ -28,6 +30,8 @@ This project focuses on predicting car prices using Random Forest and XGBoost mo
 16. Wheel
 17. Color
 18. Airbags
+
+Dataset Link: https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge
 
 
 ## Data Cleaning and Pre-processing
